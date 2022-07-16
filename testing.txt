@@ -1,5 +1,9 @@
 wassup!!!
 
+<<<<<<< HEAD
 second change
 
 mistake jabarjasti
+=======
+second change
+>>>>>>> 54d38b80502e3fa40afbe54863a78e19875ef28e
